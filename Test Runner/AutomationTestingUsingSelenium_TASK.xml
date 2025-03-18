@@ -1,0 +1,11 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="AutomationTestingUsingSelenium_TASK Suite">
+    <test name="AutomationTestingUsingSelenium_TASK Suite">
+        <classes>
+            <class name="Tests.TC01_VerifyAddingCarFuelConsumption"/>
+            <class name="Tests.TC02_VerifyDeletingAddedCarFuelConsumption"/>
+        </classes>
+    </test>
+</suite>
